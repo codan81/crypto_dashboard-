@@ -1,0 +1,7 @@
+sector,ticker,current_value,cml_cost,gain_loss,weight
+mineable,2,53.79,0.27,0.0,77.35
+logistics,1,31.6,43497.25,1317.82,45.44
+platform,1,28.54,19180.0,0.0,41.04
+dpos,1,0.0,0.0,0.0,0.0
+music,1,0.0,0.0,-1250.0,0.0
+medium-of-exchange,2,-44.39,-1969.91,0.0,-63.83
